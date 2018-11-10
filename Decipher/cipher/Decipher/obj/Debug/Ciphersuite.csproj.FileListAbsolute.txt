@@ -1,6 +1,0 @@
-C:\Development\Decipher\Decipher\bin\Debug\Decipher.dll
-C:\Development\Decipher\Decipher\bin\Debug\Decipher.pdb
-C:\Development\Decipher\Decipher\obj\Debug\Ciphersuite.csprojResolveAssemblyReference.cache
-C:\Development\Decipher\Decipher\obj\Debug\Ciphersuite.csproj.CoreCompileInputs.cache
-C:\Development\Decipher\Decipher\obj\Debug\Decipher.dll
-C:\Development\Decipher\Decipher\obj\Debug\Decipher.pdb
