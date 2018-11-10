@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciphersuite", "Decipher\Ciphersuite.csproj", "{2059D3AD-6881-4C35-9AC9-E8A34CCD8D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CipherTest", "CipherTest\CipherTest.csproj", "{35096F15-9D25-40DF-9978-8536E65BF651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2059D3AD-6881-4C35-9AC9-E8A34CCD8D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2059D3AD-6881-4C35-9AC9-E8A34CCD8D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2059D3AD-6881-4C35-9AC9-E8A34CCD8D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2059D3AD-6881-4C35-9AC9-E8A34CCD8D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35096F15-9D25-40DF-9978-8536E65BF651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35096F15-9D25-40DF-9978-8536E65BF651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35096F15-9D25-40DF-9978-8536E65BF651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35096F15-9D25-40DF-9978-8536E65BF651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79614F27-F70B-4FBA-A97B-3991C07888FD}
+	EndGlobalSection
+EndGlobal
