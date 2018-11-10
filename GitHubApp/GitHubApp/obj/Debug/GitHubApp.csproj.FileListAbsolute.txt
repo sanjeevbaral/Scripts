@@ -1,0 +1,10 @@
+C:\Development\GitHubApp\GitHubApp\bin\Debug\GitHubApp.exe.config
+C:\Development\GitHubApp\GitHubApp\bin\Debug\GitHubApp.exe
+C:\Development\GitHubApp\GitHubApp\bin\Debug\GitHubApp.pdb
+C:\Development\GitHubApp\GitHubApp\obj\Debug\GitHubApp.Form1.resources
+C:\Development\GitHubApp\GitHubApp\obj\Debug\GitHubApp.Properties.Resources.resources
+C:\Development\GitHubApp\GitHubApp\obj\Debug\GitHubApp.csproj.GenerateResource.Cache
+C:\Development\GitHubApp\GitHubApp\obj\Debug\GitHubApp.csproj.CoreCompileInputs.cache
+C:\Development\GitHubApp\GitHubApp\obj\Debug\GitHubApp.exe
+C:\Development\GitHubApp\GitHubApp\obj\Debug\GitHubApp.pdb
+C:\Development\GitHubApp\GitHubApp\obj\Debug\GitHubApp.csprojResolveAssemblyReference.cache
